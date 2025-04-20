@@ -1,0 +1,2 @@
+C:/Users/Fernandes/Documents/dart/flutter_banco_douro/flutter_banco_douro/android/app/.cxx/Debug/4h6h52u1/x86/CMakeFiles/edit_cache.dir
+C:/Users/Fernandes/Documents/dart/flutter_banco_douro/flutter_banco_douro/android/app/.cxx/Debug/4h6h52u1/x86/CMakeFiles/rebuild_cache.dir
